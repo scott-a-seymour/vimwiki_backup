@@ -1,0 +1,23 @@
+{
+  "esn": 228700566126914,
+  "neId": "228700566126914",
+  "neType": "TMLRU",
+  "assignedPrivAddress": {
+    "mask": 32,
+    "networkElementType": "TMLRU",
+    "networkType": "PRIVATE",
+    "oct1": 10,
+    "oct2": 200,
+    "oct3": 1,
+    "oct4": 246
+  },
+  "assignedPubAddress": {
+    "mask": 24,
+    "networkElementType": "TMLRU",
+    "networkType": "PUBLIC",
+    "oct1": 10,
+    "oct2": 136,
+    "oct3": 9,
+    "oct4": 6
+  }
+}
