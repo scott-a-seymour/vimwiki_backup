@@ -1,19 +1,21 @@
 # HIGH Priority
-
-# MEDIUM Priority
-## Current Jira issues
 ### [PTESMMS-5835](https://jira.apps.dev.pcloud.io/browse/PTESMMS-5835) Re-start ETPES-1
 2024-02-29
 * [X] Connect w/ Mike Doloff re: rebuild EPTES-1
   * He will get corrections made to EPTES-3 instance, then will use that as a baseline image
 * Created Jira task
 * [ ] Complete install process by following Mike D's written instructions
+  * 2024-03-11 12:56 Some redlines added to process; nearly finished, but having unexpected interruptions
+  * 2024-03-11 16:53 Nearly done. Only one rogue dependency to resolve; expect to finish [tomorrow](tomorrow)
 * [X] Follow up with DSO about access to JHs from AWS
   * [X] Need it to be able to move log files from EPTES-1 to AWS
   * Referred to DSO MM by Mike D
   * [X] Submit request to DSO for access to all JHs
   * [X] Access complete
 
+
+# MEDIUM Priority
+## Current Jira issues
 ### [PTESMMS-5731](https://jira.apps.dev.pcloud.io/browse/PTESMMS-5731) Python script for key generation
 - Notes for next steps from Joe K:
   - [ ] Initialize a JH ECU
